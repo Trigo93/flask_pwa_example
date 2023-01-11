@@ -1,13 +1,13 @@
 {
   "name": "My PWA",
-  "short_name": "My PWA",
-  "start_url": "/",
+  "short_name": "PWA",
+  "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff",
   "icons": [
     {
-      "src": "/static/icon.png",
+      "src": "static/icons/icon.png",
       "type": "image/png"
     }
   ]
